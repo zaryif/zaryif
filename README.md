@@ -35,6 +35,7 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 - 🕶️ **[VisionClaw](https://github.com/zaryif/VisionClaw)** - Real-time voice + vision assistant for Meta Ray-Ban glasses using Meta Wearables DAT SDK + Gemini Live WebSocket.
 - 🧰 **[my-ai-stack](https://github.com/zaryif/my-ai-stack)** - Automated setup for an AI engineering stack (Claude Code + gstack + Gemini + Antigravity). One-liner restore on any machine.
 - 🤖 **[Interactive Portfolio](https://github.com/zaryif/Interactive-Portfolio-website)** ([Live](https://interactive-portfolio-website-pi.vercel.app/)) - Interactive portfolio featuring an AI Playground for testing tools in real-time.
+- 🩺 **[Poramorshok AI](https://github.com/zaryif/poramorshok-ai)** ([Web App](https://poramorshok-ai.vercel.app)) - AI-powered medical & lifestyle consultant with Gemini AI symptom analysis and Supabase tracking.
 
 ### Native Apps & Hardware
 
