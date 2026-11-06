@@ -21,11 +21,9 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 
 - 📁 **[Finderly](https://github.com/zaryif/Finderly)** - Elegant macOS-style multiplatform file organizer with Retina folder aesthetics, local P2P sync, and offline vault (Android • macOS • Windows • iOS).
 - 🖨️ **[Thermal Print Studio](https://github.com/zaryif/Thermal_printer)** ([Web App](https://zaryif.github.io/Thermal_printer/)) - Reverse-engineered BLE pocket receipt engine with Tiny Print hardware protocol, Floyd-Steinberg dithering, and Google Calendar sync.
-- 🕵️ **[Forensic Steganography Suite](https://github.com/zaryif/ForensicSteganographySuite)** ([Web Studio](https://zaryif.github.io/ForensicSteganographySuite/)) - Radiohead Vault v5.1 (CRT Edition): undetectable forensic-grade steganography via LSB and CSPRNG across C++, Rust, Python, Swift, and HTML5.
 - 📱 **[Minimal OS](https://github.com/zaryif/Minimal_os)** - Distraction-free Android launcher in Jetpack Compose with CLI command parser, notification hub, and hardware widgets (v1.9.4 shipped).
 - 📖 **[quran-cli](https://github.com/zaryif/quran-cli)** - Offline-first Islamic terminal companion with local prayer times, Quran search, and rich TUI (v1.4.0 shipped).
 - 🦞 **[mouseclaw](https://github.com/zaryif/mouseclaw)** - macOS floating text-action HUD with instant AI actions and OpenClaw agent delegation.
-- 🕶️ **[VisionClaw](https://github.com/zaryif/VisionClaw)** - Real-time multimodal voice assistant for Meta Ray-Ban glasses via Gemini Live and OpenClaw (v1.0.0 shipped).
 
 ---
 
@@ -34,7 +32,6 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 ### AI & Agentic Tooling
 
 - 🦞 **[mouseclaw](https://github.com/zaryif/mouseclaw)** - Select text anywhere on macOS → Floating panel → Real-time AI actions or autonomous OpenClaw delegation.
-- 🕶️ **[VisionClaw](https://github.com/zaryif/VisionClaw)** - Real-time voice + vision assistant for Meta Ray-Ban glasses using Meta Wearables DAT SDK + Gemini Live WebSocket.
 - 🩺 **[Poramorshok AI](https://github.com/zaryif/poramorshok-ai)** ([Web App](https://poramorshok-ai.vercel.app)) - AI-powered medical & lifestyle consultant with Gemini AI symptom analysis and Supabase biometric tracking.
 - 🧰 **[my-ai-stack](https://github.com/zaryif/my-ai-stack)** - Automated setup for an AI engineering stack (Claude Code + gstack + Gemini + Antigravity). One-liner restore on any machine.
 - 🤖 **[Interactive Portfolio](https://github.com/zaryif/Interactive-Portfolio-website)** ([Live](https://interactive-portfolio-website-pi.vercel.app/)) - Interactive portfolio featuring an AI Playground for testing tools in real-time.
@@ -49,7 +46,7 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 
 ### Systems, Terminal & Security
 
-- 🕵️ **[Forensic Steganography Suite](https://github.com/zaryif/ForensicSteganographySuite)** ([Live](https://zaryif.github.io/ForensicSteganographySuite/)) - Zero-footprint, in-memory steganography tool suite utilizing LSB bit manipulation and CSPRNG encoding.
+- 🕵️ **[Forensic Steganography Suite](https://github.com/zaryif/ForensicSteganographySuite)** ([Web Studio](https://zaryif.github.io/ForensicSteganographySuite/)) - Radiohead Vault v5.1 (CRT Edition): undetectable forensic-grade steganography via LSB and CSPRNG across C++, Rust, Python, Swift, and HTML5.
 - 📖 **[quran-cli](https://github.com/zaryif/quran-cli)** - Terminal companion for prayer alerts, Quran navigation, and Hadith lookups with zero network lag.
 - 🧹 **[securewipe](https://github.com/zaryif/securewipe)** - Zero-dependency storage wiper: fills free space with realistic garbage files before device handoff.
 - 📦 **[dumped-it](https://github.com/zaryif/dumped-it)** - Zero-dependency file organizer that automatically sorts downloads into date-indexed archives.
