@@ -20,7 +20,7 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 ## Start Here
 
 - 📁 **[Finderly](https://github.com/zaryif/Finderly)** - Elegant macOS-style multiplatform file organizer with Retina folder aesthetics, local P2P sync, and offline vault (Android • macOS • Windows • iOS).
-- 🖨️ **[Thermal Print Studio](https://github.com/zaryif/Thermal_printer)** ([Web App](https://zaryif.github.io/Thermal_printer/)) - Reverse-engineered BLE pocket receipt engine with Tiny Print hardware protocol, Floyd-Steinberg dithering, and Google Calendar sync.
+- 🖨️ **[Thermi](https://github.com/zaryif/Thermi_ThermalPrinterOS)** ([Web App](https://zaryif.github.io/Thermi_ThermalPrinterOS/)) - Universal Thermal Printer OS for Bluetooth pocket & commercial POS printers (58mm/80mm). Zero-driver pairing, edge-to-edge responsive canvas, true hardware preview mode, calibrated Floyd-Steinberg dithering, and Google Calendar sync.
 - 📱 **[Minimal OS](https://github.com/zaryif/Minimal_os)** - Distraction-free Android launcher in Jetpack Compose with CLI command parser, notification hub, and hardware widgets (v1.9.4 shipped).
 - 📖 **[quran-cli](https://github.com/zaryif/quran-cli)** - Offline-first Islamic terminal companion with local prayer times, Quran search, and rich TUI (v1.4.0 shipped).
 - 🦞 **[mouseclaw](https://github.com/zaryif/mouseclaw)** - macOS floating text-action HUD with instant AI actions and OpenClaw agent delegation.
@@ -39,7 +39,7 @@ Building native utilities, agentic tools, and distraction-free mobile & desktop 
 ### Native Apps, Hardware & Productivity
 
 - 📁 **[Finderly](https://github.com/zaryif/Finderly)** - Multiplatform file vault with Retina folder colors, subfolder hierarchies, and zero-cloud local Wi-Fi sync.
-- 🖨️ **[Thermal Print Studio](https://github.com/zaryif/Thermal_printer)** - Direct Web Bluetooth / Serial thermal printing for Cat, PeriPage, and X5h printers.
+- 🖨️ **[Thermi](https://github.com/zaryif/Thermi_ThermalPrinterOS)** - Universal Thermal Printer OS: direct BLE printing for pocket, Cat, PeriPage, and commercial POS printers.
 - 📱 **[Minimal OS](https://github.com/zaryif/Minimal_os)** - Lightweight, distraction-free Android home replacement with terminal command speed.
 - 📝 **[Rough App](https://github.com/zaryif/Rough-app-zaryif)** ([Web App](https://rough-app-zaryif.vercel.app)) - All-in-one digital Swiss Army knife for notes, tasks, code snippets, expenses, and AI prompts.
 - 📸 **[snapped-it](https://github.com/zaryif/snapped-it)** - Minimalist floating desktop capture toolbar across macOS, Windows, and Linux.
